@@ -1,0 +1,12 @@
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\bin\Debug\AliCanYucel_SOAP.exe.config
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\bin\Debug\AliCanYucel_SOAP.exe
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\bin\Debug\AliCanYucel_SOAP.pdb
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.csproj.AssemblyReference.cache
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.Form1.resources
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.Properties.Resources.resources
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.csproj.GenerateResource.cache
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.csproj.CoreCompileInputs.cache
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.exe
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.pdb
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\bin\Debug\Json.Net.dll
+C:\Users\burha\source\repos\AliCanYucel_SOAP\AliCanYucel_SOAP\obj\Debug\AliCanYucel_SOAP.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliCanYucel_SOAP", "AliCanYucel_SOAP\AliCanYucel_SOAP.csproj", "{A7820EF1-93AB-4ADC-BDB1-803B537FC723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7820EF1-93AB-4ADC-BDB1-803B537FC723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7820EF1-93AB-4ADC-BDB1-803B537FC723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7820EF1-93AB-4ADC-BDB1-803B537FC723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7820EF1-93AB-4ADC-BDB1-803B537FC723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE363E8-8B8D-4D98-A7F0-79F5C3A867F8}
+	EndGlobalSection
+EndGlobal
